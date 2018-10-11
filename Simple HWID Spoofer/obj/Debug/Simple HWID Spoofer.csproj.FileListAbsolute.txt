@@ -1,0 +1,7 @@
+C:\Users\Nividia\source\repos\Simple HWID Spoofer\Simple HWID Spoofer\bin\Debug\Simple HWID Spoofer.exe.config
+C:\Users\Nividia\source\repos\Simple HWID Spoofer\Simple HWID Spoofer\bin\Debug\Simple HWID Spoofer.exe
+C:\Users\Nividia\source\repos\Simple HWID Spoofer\Simple HWID Spoofer\bin\Debug\Simple HWID Spoofer.pdb
+C:\Users\Nividia\source\repos\Simple HWID Spoofer\Simple HWID Spoofer\obj\Debug\Simple HWID Spoofer.csprojAssemblyReference.cache
+C:\Users\Nividia\source\repos\Simple HWID Spoofer\Simple HWID Spoofer\obj\Debug\Simple HWID Spoofer.csproj.CoreCompileInputs.cache
+C:\Users\Nividia\source\repos\Simple HWID Spoofer\Simple HWID Spoofer\obj\Debug\Simple HWID Spoofer.exe
+C:\Users\Nividia\source\repos\Simple HWID Spoofer\Simple HWID Spoofer\obj\Debug\Simple HWID Spoofer.pdb
